@@ -65,12 +65,19 @@ Scan code QR nya | WhatsApp web
 ## ```THANKS TO ALL``` <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
 • [Baileys](https://github.com/adiwajshing/Baileys)
+  
 • [Zeeone OFC](https://github.com/zeeoneofc)
+  
 • [SKIUWERS](https://github.com/skiuwers)
+  
 • [Hexagon](https://github.com/Hexagonz)
+  
 • [Xinz](https://github.com/Xinz-Team)
+  
 • [Zennn08](https://github.com/Zennn08)
+  
 • [FERDIZ-afk](https://github.com/FERDIZ-afk)
+  
 • [ItsMeArip](https://github.com/ItsMeArip)
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
