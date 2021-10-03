@@ -4,13 +4,13 @@
 
 -------
 
-<p align="center">
 
-  <img src="https://b.top4top.io/p_2082g2it21.jpg" />
 
-</p>
+  
 
-------
+
+
+
 
 <p align="center"> <a href="SKIUWERS"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=projectskiuwers&label=PROFILE%20VISITORS&color=green&style=flat-square" alt="Manish" /></a> </p>
 
@@ -49,6 +49,6 @@ THANKS TO ALL
   
 [ItsMeArip](https://projectskiuwers.github.io/ItsMeArip)
 
- ------
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+
+
