@@ -80,7 +80,7 @@ Scan code QR nya | WhatsApp web
 ⌬ [FERDIZ-afk](https://github.com/FERDIZ-afk)
   
 ⌬ [ItsMeArip](https://github.com/ItsMeArip)
-  
+-------
 <div align="center">
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
 
