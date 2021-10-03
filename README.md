@@ -46,8 +46,12 @@ THANKS TO ALL
 [Hexagon](https://github.com/Hexagonz)
   
 [Xinz](https://github.com/Xinz-Team)
+
+[Zennn08](https://github.com/Zennn08)
   
-[ItsMeArip](https://projectskiuwers.github.io/ItsMeArip)
+[Ferdiz-afk](https://github.com/FERDIZ-afk)
+  
+[ItsMeArip](https://github.com/ItsMeArip)
 
 
 
