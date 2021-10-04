@@ -10,9 +10,10 @@
   ◪ Peringatan : Klau mau recode yang teliti ya ngab!
   
   ◪ Base : Self-Bot°©2K21
-  ◪ Lib : Baileys [ versi 4.5.1 ]
+  ◪ Lib : Baileys 
+  ◪ Browser : Safari
   ◪ Author : Zeeone OFC
-  ◪ Recode : ItsMeArip :)
+  ◪ Recode : ItsMeArip
   
   ◪ THX CREATOR BOTWEA
   ◪ THX PENYEDIA REST API
