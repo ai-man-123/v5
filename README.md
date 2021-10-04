@@ -9,17 +9,17 @@
 
 <p align="center"> <a href="https://youtube.com/channel/UCy1HDX_AtOQqt1efnP4HseA"><img src="https://img.shields.io/youtube/channel/subscribers/UCy1HDX_AtOQqt1efnP4HseA?style =social" /></a><br>
 
-<br>
 
-<div align="center">
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=skiuwers&show_icons=true&theme=nightowl" alt="SKIUWERS" /></p>
 
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skiuwers&theme=nightowl" alt="SKIUWERS" /></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skiuwers&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="SKIUWERS"/p><br> 
 
--------
+
+
+
+
+
+
 <div align="left">
 
 ## ```DEPLOY```
