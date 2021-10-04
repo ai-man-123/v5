@@ -27,7 +27,7 @@
 
 
 ## ```DEPLOY```
-[![Menyebarkan](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/skiuwers/self/)
+[![Menyebarkan](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/skiuwers/self)
   
 -------
 ## ```PC | RDP | VPS``` <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
