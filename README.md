@@ -50,6 +50,7 @@ Scan code QR nya | WhatsApp web
 ## ```RUN TO TERMUX``` <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
 ```bash
 > termux-setup-storage [ Y ]
+> pkg update && pkg upgrade
 > pkg install git
 > pkg install nodejs
 > pkg install ffmpeg
