@@ -1,3 +1,5 @@
+ 
+ [![Menyebarkan](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/skiuwers/rip/)
 -------
 <p align="center"> <a href="https://github.com/skiuwers/self"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=skiuwers&label=PROFILE%20VISITORS&color=green&style=flat-square" alt="skiuwers" /></a> </p>
 
@@ -23,7 +25,7 @@
 
 
 
- [![Menyebarkan](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/skiuwers/rip/)
+
 
   
   
