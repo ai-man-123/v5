@@ -13,7 +13,7 @@
   ◪ Lib : Baileys
   ◪ Browser : Safari
   ◪ Author : ZeeoneOFC
-  ◪ Recode : ItsMe 
+  ◪ Recode : ItsMeArip
   
   ◪ THX CREATOR BOTWEA
   ◪ THX PENYEDIA REST API
