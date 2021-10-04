@@ -67,7 +67,7 @@ Scan code QR nya | WhatsApp web
 
 ⌬ [Baileys](https://github.com/adiwajshing/Baileys)
   
-⌬ [Zeeone OFC](https://github.com/zeeoneofc)
+⌬ [ZeeoneOFC](https://github.com/zeeoneofc)
   
 ⌬ [SKIUWERS](https://github.com/skiuwers)
   
