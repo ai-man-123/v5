@@ -37,6 +37,7 @@
 • install libwebp | path libwebp 
 
 > git clone https://github.com/skiuwers/self
+> cd self
 > npm install 
 > npm i hxz-api 
 > npm i imgbb-uploader
