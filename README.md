@@ -56,7 +56,7 @@ Scan code QR nya | WhatsApp web
 > pkg install ffmpeg
 > pkg install mc
 > git clone https://github.com/skiuwers/self
-> bash install.sh
+> cd self
 > npm install
 > npm i hxz-api
 > npm i imgbb-uploader
